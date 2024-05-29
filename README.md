@@ -1,7 +1,11 @@
 ## Hi there 👋
 
 My name is Mason and I am student at Illinois State University.
+
 I am pursuing a BS in Computer Science alongside a Business Administration Minor.
+
+I am very familiar with Python, Java, C++, SQL, and Arduino.
+I am decent at GO, JavaScript, HTML, and CSS.
 
 I have done plenty of projects in the past, many of which have since been lost to time but to name a few, I have done
 - A python program that when given the lengths of sides in a 4 sided polygon, computes the angles necessary for the polygon to exist
