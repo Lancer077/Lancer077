@@ -19,6 +19,10 @@ It was here that I developed skills for working with embedded software and reall
 I ended up coding all the screens for the driver as well as all of the functionality between the driver and the motor controller.
 In doing so, I learned a lot about CANbus, which is the industry standard for how microcontrollers send/receive data in a car.
 
+Something I have learned through lots of coding classes is that rarely does anyone get it right on their first try. It is only through experiementation and evolution that one can write truly good code. 
+
+I also tend to have a habit to work in smaller file sizes so that I can do Ctrl+a and backspace. My general approach is that my first attempt at a project will lead to problems down the line, so I take my first attempt at coding as nothing less than a learning opportunity for what I want to end up doing in future iterations.
+
 For now, I am going to keep working through leetcode problems that I find interesting and putting my solutions here, as a sort of sample for any potential employers.
 
 I am actively looking for a job in any field related to software development, project management, embedded software, or pretty much anything that involves solving problems through code.
