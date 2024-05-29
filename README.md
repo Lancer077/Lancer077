@@ -19,6 +19,7 @@ For now, I am going to keep working through leetcode problems that I find intere
 
 I am actively looking for a job in any field related to software development, project management, embedded software, or pretty much anything that involves solving problems through code.
 If you like what you see here, please do not hesitate to email masonmyre@gmail.com for any career related inquiries.
+
 https://linktr.ee/masonmyre
 
 Have a lovely day!
