@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello There 👋
 
 My name is Mason and I am student at Illinois State University.
 
