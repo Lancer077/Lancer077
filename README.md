@@ -1,8 +1,6 @@
 ## Hello There 👋
 
-My name is Mason and I am student at Illinois State University.
-
-I am pursuing a BS in Computer Science alongside a Business Administration Minor.
+My name is Mason and I am a graduate of Illinois State University with a BS in Computer Science alongside a Business Adminstration Minor.
 
 I am very familiar with Python, Java, C++, SQL, and Arduino.
 I am decent at GO, JavaScript, HTML, and CSS.
@@ -20,8 +18,6 @@ I ended up coding all the screens for the driver as well as all of the functiona
 In doing so, I learned a lot about CANbus, which is the industry standard for how microcontrollers send/receive data in a car.
 
 Something I have learned through lots of coding classes is that rarely does anyone get it right on their first try. It is only through experiementation and evolution that one can write truly good code. 
-
-I also tend to have a habit to work in smaller file sizes so that I can do Ctrl+a and backspace. My general approach is that my first attempt at a project will lead to problems down the line, so I take my first attempt at coding as nothing less than a learning opportunity for what I want to end up doing in future iterations.
 
 For now, I am going to keep working through leetcode problems that I find interesting and putting my solutions here, as a sort of sample for any potential employers.
 
